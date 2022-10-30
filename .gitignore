@@ -1,4 +1,10 @@
-.idea
-.vscode
-.mypy_cache
+# Environments
+*.env
 .env
+
+
+.idea/
+.vscode/
+.mypy_cache/
+
+bla_bla.txt

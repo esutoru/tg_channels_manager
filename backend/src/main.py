@@ -13,4 +13,7 @@ app = FastAPI(
 )
 
 
+# TODO: Add CORS middleware
+
+
 app.include_router(api_router)
